@@ -1,2 +1,1 @@
-# EPAM_PREP_2025
-//preparing for my epam internship 
+A developer diary documenting my self-paced training journey with EPAM and my growth as a Web developer.
